@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Mundo Artístico',
-    'Quem é o Rei do Rock?',
-    'Elvis Presley'
+    'Conhecimentos Gerais',
+    'Se misturar Azul com Vermelho, dá que cor?',
+    'Roxo'
 )
 
 criaCartao(
