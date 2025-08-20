@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'Qual é o nome do maior órgão do corpo humano?',
+    'A pele.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Mundo Artístico',
+    'Quem é o Rei do Rock?',
+    'Elvis Presley'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Como é o nome do principal expoente da Reforma Protestante?',
+    'Martinho Lutero'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Língua Portuguêsa',
+    'Qual o antônimo da palavra "BEM" ',
+    'MAL.'
 )
